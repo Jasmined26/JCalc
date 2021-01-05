@@ -1,12 +1,21 @@
 -------------- Part 1 --------------
-1. Import tkinter modules
+1. Import tkinter modules (tkinter, tkinter.font, *)
 2. Create basic GUI class with a blank window
 3. Create widgets
-    - Label - for expression
-    - Label - for results
-    - 10 digit buttons
-    - 4 operation buttons
-    - equal button
-    - clear button
-    - delete button
-4. Grid widgets
+    - Label - for expression (bg)
+    - Label - for results (bg)
+    - 10 digit buttons (text)
+    - 4 operation buttons (text)
+    - equal button (text)
+    - clear button (text)
+    - delete button (text)
+4. Grid widgets (rows & columns) [7 rows, 4 columns]
+
+-------------- Part 2 --------------
+5. Configure window size (width, height)
+6. Configure row and column weights
+7. Reconfigure widget grids (sticky)
+
+-------------- Part 3 --------------
+8. Create string variables to update labels
+9. Create function to update
