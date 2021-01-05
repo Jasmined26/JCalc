@@ -1,0 +1,12 @@
+-------------- Part 1 --------------
+1. Import tkinter modules
+2. Create basic GUI class with a blank window
+3. Create widgets
+    - Label - for expression
+    - Label - for results
+    - 10 digit buttons
+    - 4 operation buttons
+    - equal button
+    - clear button
+    - delete button
+4. Grid widgets
